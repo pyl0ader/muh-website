@@ -1,0 +1,54 @@
+body {
+	background: #e0ecfc;
+}
+
+h1 {
+	text-align: center;
+	color: #004eb2;
+}
+
+h2 {
+	padding: .5em;
+	background: gray;
+	margin: .3em;
+}
+
+p {
+	float: left;
+	margin: .5em
+}
+
+ul {
+	list-style-type: none;
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 20%;
+	height: 700px;
+	background-color: lightgray;
+}
+
+li a {	
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+	text-align: center;
+	text-decoration: none;
+	background: gray;
+}
+
+li a:hover {
+	background: darkgray;
+}
+
+.cont {
+	margin: .5em;
+	float: left;
+	background: lightgray;
+	height: 310px;
+	width: 75%;
+}
+
+.cont img {
+	margin: .25em;
+}
