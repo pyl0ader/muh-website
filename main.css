@@ -52,3 +52,7 @@ li a:hover {
 .cont img {
 	margin: .25em;
 }
+
+table tr, td {
+    text-align: center;
+}
